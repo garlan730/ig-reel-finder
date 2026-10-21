@@ -45,9 +45,9 @@ Reel Finder is an independent project and is not affiliated with, endorsed by or
 
 ## Links
 
-- Homepage: https://GITHUB_USERNAME.github.io/ig-reel-finder/
-- Privacy policy: https://GITHUB_USERNAME.github.io/ig-reel-finder/privacy.html
-- Support: https://github.com/GITHUB_USERNAME/ig-reel-finder/issues
+- Homepage: https://garlan730.github.io/ig-reel-finder/
+- Privacy policy: https://garlan730.github.io/ig-reel-finder/privacy.html
+- Support: https://github.com/garlan730/ig-reel-finder/issues
 
 ## Chrome "Privacy practices" tab
 

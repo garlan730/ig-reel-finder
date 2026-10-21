@@ -3,6 +3,7 @@
   "name": "Reel Finder",
   "version": "1.0.0",
   "description": "Find where a reel sits in its creator's profile feed, and what they posted right after it (usually Part 2).",
+  "homepage_url": "https://github.com/garlan730/ig-reel-finder",
   "permissions": ["storage", "activeTab"],
   "host_permissions": ["https://www.instagram.com/*"],
   "icons": {
