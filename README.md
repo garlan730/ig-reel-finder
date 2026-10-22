@@ -59,3 +59,7 @@ You can also paste a reel link (for example one you shared from your phone) into
 The privacy policy and homepage live in `docs/`. To host them, enable GitHub Pages for the `/docs` folder of the `main` branch.
 
 Check Firefox compatibility before uploading with `npx web-ext lint --source-dir <unzipped dist folder>`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
